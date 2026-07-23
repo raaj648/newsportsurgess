@@ -78,7 +78,7 @@ fetch(apiURL)
           sport: getCategoryName(match.category) || "-",
           tournament: "",
           match: match.title || "-",
-          url: `https://tubemateapk0.github.io/streampage/?id=${match.id}`,
+          url: `https://raaj648.github.io/streampage2sportsurge/?id=${match.id}`,
           isTitleMatch: !!titleMatch
         });
       }

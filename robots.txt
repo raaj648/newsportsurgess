@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://buffstreams.lol/sitemap.xml
+Sitemap: https://sportsurge.mom/sitemap.xml
